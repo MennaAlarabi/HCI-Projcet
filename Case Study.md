@@ -1,4 +1,4 @@
-# UI/UX Redesign Case Study
+# UI/UX Redesign Case Study on [NOPWASD Website](https://nopwasd.gov.eg/)
 ## Introduction  
 This report presents a detailed UI/UX audit and redesign strategy for the NOPWASD
 website, National Organization for Potable Water and Sanitary Drainage, a governmental platform responsible for providing information related to potable water and sanitary drainage projects in Egypt.
@@ -51,5 +51,10 @@ The new design successfully transformed the website from an outdated, non-functi
 interface into a modern and efficient digital platform. The most significant improvements
 were the modernization of visual aesthetics (UI) and the adoption of a clear, familiar
 information structure (UX), ensuring an easier and more enjoyable browsing experience
-for visitors.
+for visitors.   
+
+🔗 [Take a look on Old Design](https://nopwasd.gov.eg/)  
+🔗 [Take a look on New Design](https://www.figma.com/proto/gab0xp5YGd8fTm2frMcnRT/Untitled?node-id=0-57&t=Vzgfroew7qCb6Vy6-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
+
+
 
